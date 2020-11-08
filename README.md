@@ -1,2 +1,2 @@
-# class34
-synchoronus ball  movement
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
